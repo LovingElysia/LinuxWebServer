@@ -53,7 +53,7 @@ make
 配置运行
 ============
 ````shell
-./server [-p port] [-l LOGWrite] [-m TRIGMode] [-o OPT_LINGER] [-s sql_num] [-t thread_num] [-c close_log] [-a actor_model]
+./Webserver [-p port] [-l LOGWrite] [-m TRIGMode] [-o OPT_LINGER] [-s sql_num] [-t thread_num] [-c close_log] [-a actor_model]
 `````
 * -p，自定义端口号
 	* 默认9006
